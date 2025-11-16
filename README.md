@@ -16,8 +16,8 @@ Dessutom introduceras BEM, en tydlig namngivningsmetod som hjälper oss att skri
 ## Resurser
 
 ### Presentationer
-* [18 nov, Tillgänglighet på webben]()
-* [20 nov, BEM]()
+* [17 nov, BEM](https://docs.google.com/presentation/d/1HG3xpOVXjIoTX57fiAUPE4iGkG8qYVFY/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [17 nov, Tillgänglighet på webben](https://docs.google.com/presentation/d/1u7YuqWXWbz_W5IckRun1CqutE9acH3II/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -44,3 +44,6 @@ Dessutom introduceras BEM, en tydlig namngivningsmetod som hjälper oss att skri
 
 
 ### Övningar
+
+* [BEM Exercise](https://github.com/fu-html-css-fe25/week-47-exercise-BEM/tree/main) - veckans Code Review-uppgift
+* [Workshop: accessibility](https://github.com/fu-html-css-fe25/week-47-exercise-accessibility) - veckans Seminarie-uppgift
